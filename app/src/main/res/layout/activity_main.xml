@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ilapaschange.MainActivity"
+    >
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scroll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    >
+
+    <Button
+        android:id="@+id/button_ah"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="AH" />
+
+    <Button
+        android:id="@+id/button_aioaioaio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="O-oooooooooo AAAAE-A-A-I-A-U-
+JO-oooooooooooo AAE-O-A-A-U-U-A-
+E-eee-ee-eee AAAAE-A-E-I-E-A-
+JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA" />
+
+    <Button
+        android:id="@+id/button_evangelion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="Neon Genesis Evangelion" />
+
+    <Button
+        android:id="@+id/button_mere"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="Ta mère" />
+
+    <Button
+        android:id="@+id/button_père"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="Ton père" />
+
+    <Button
+        android:id="@+id/button_grandmere"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="Ta grandmère" />
+
+    <Button
+        android:id="@+id/button_femme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="Ta femme" />
+
+    <Button
+        android:id="@+id/button_manuchao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="ding" />
+
+    <Button
+        android:id="@+id/button_dejavu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="Déjà vu" />
+
+    <Button
+        android:id="@+id/button_liquido"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="Tututututututututu" />
+
+    <Button
+        android:id="@+id/button_philippe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="Philipe" />
+
+    <Button
+        android:id="@+id/button_non"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="Non" />
+
+    <Button
+        android:id="@+id/button_lalala"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="Lalala" />
+
+    <Button
+        android:id="@+id/button_yamete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="Yamete kudasai" />
+
+    <Button
+        android:id="@+id/button_omae"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="omae wa mou shindeiru" />
+
+    <Button
+        android:id="@+id/button_nani"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="Nani" />
+
+    <Button
+        android:id="@+id/button_danslanuitnoire"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="Dans la nuit noire" />
+
+    <Button
+        android:id="@+id/button_itadakimasu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="Itadakimasu" />
+
+    <Button
+        android:id="@+id/button_sodesune"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="sodesune" />
+
+
+    <Button
+        android:id="@+id/button_cgt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="CGT" />
+
+    <Button
+        android:id="@+id/button_heure"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="2 heures" />
+
+    <Button
+        android:id="@+id/button_duu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="Duu" />
+    <Button
+        android:id="@+id/button_tuturu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="Tu-tu-ru" />
+
+</LinearLayout>
+    </ScrollView>
+</LinearLayout>
